@@ -3,7 +3,7 @@
 
 基于flask搭建了一个web端的文本相关性计算服务，需要GPU启动。
 
-详细方案见：https://zhuanlan.zhihu.com/p/545029313
+详细方案见：https://zhuanlan.zhihu.com/p/561424099
 
 ### 运行环境
 
